@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "criptografia",
+    "title": "Salt, nonce and key: three roles in an encrypted vault",
+    "description": "Uma nota em preparação sobre os papéis de salt, nonce e chave no armazenamento seguro de senhas.",
+    "file": "criptografia.md",
+    "category": "Criptografia",
+    "status": "draft"
+  },
+  {
+    "slug": "visao-computacional",
+    "title": "From pixels to pedestrian crossings",
+    "description": "Etapas de processamento de imagens e análise geométrica no projeto de detecção de faixas.",
+    "file": "visao-computacional.md",
+    "category": "Visão computacional",
+    "status": "planned"
+  },
+  {
+    "slug": "sistemas-de-dados",
+    "title": "Turning public pages into queryable information",
+    "description": "Coleta e organização de dados públicos para consultas em linguagem natural.",
+    "file": "sistemas-de-dados.md",
+    "category": "Sistemas de dados",
+    "status": "planned"
+  }
+]
